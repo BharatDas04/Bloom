@@ -1,0 +1,310 @@
+[
+  {
+    "id": "1a2b3c4d",
+    "name": "Snake Plant",
+    "description": "A hardy indoor plant known for its air-purifying qualities.",
+    "cost": 300,
+    "rating": 4.5,
+    "steps": [
+      "1. Place in indirect sunlight.",
+      "2. Water sparingly.",
+      "3. Avoid overwatering."
+    ],
+    "waterFrequency": 3,
+    "images": "https://i.imgur.com/neul23o.png"
+  },
+  {
+    "id": "5e6f7g8h",
+    "name": "Spider Plant",
+    "description": "A low-maintenance plant with graceful, arching leaves.",
+    "cost": 250,
+    "rating": 4.2,
+    "steps": [
+      "1. Keep in bright, indirect light.",
+      "2. Water when soil is dry to touch.",
+      "3. Fertilize once a month."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/XpJno8R.png"
+  },
+  {
+    "id": "9i8h7g6f",
+    "name": "Peace Lily",
+    "description": "An elegant plant with glossy leaves and white flowers.",
+    "cost": 400,
+    "rating": 4.7,
+    "steps": [
+      "1. Keep soil consistently moist.",
+      "2. Place in low to medium light.",
+      "3. Mist leaves occasionally."
+    ],
+    "waterFrequency": 1,
+    "images": "https://i.imgur.com/fdkNGWa.png"
+  },
+  {
+    "id": "1k2j3l4m",
+    "name": "Aloe Vera",
+    "description": "A succulent plant known for its medicinal properties.",
+    "cost": 280,
+    "rating": 4.0,
+    "steps": [
+      "1. Place in bright, indirect light.",
+      "2. Water deeply but infrequently.",
+      "3. Allow soil to dry out between waterings."
+    ],
+    "waterFrequency": 3,
+    "images": "https://i.imgur.com/JebvKJk.png"
+  },
+  {
+    "id": "5n6o7p8q",
+    "name": "ZZ Plant",
+    "description": "A tough, drought-tolerant plant with shiny, dark green leaves.",
+    "cost": 320,
+    "rating": 4.3,
+    "steps": [
+      "1. Thrives in low light conditions.",
+      "2. Water when soil is dry.",
+      "3. Avoid overwatering."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/1u9kPwZ.png"
+  },
+  {
+    "id": "9r8s7t6u",
+    "name": "Fiddle Leaf Fig",
+    "description": "A popular indoor tree with large, violin-shaped leaves.",
+    "cost": 450,
+    "rating": 4.6,
+    "steps": [
+      "1. Place in bright, indirect light.",
+      "2. Water when top inch of soil is dry.",
+      "3. Mist leaves regularly."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/OXypCzY.png"
+  },
+  {
+    "id": "5v6w7x8y",
+    "name": "Monstera",
+    "description": "An iconic tropical plant with large, fenestrated leaves.",
+    "cost": 480,
+    "rating": 4.8,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Allow soil to dry out slightly between waterings.",
+      "3. Support climbing vines with a moss pole."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/1u9kPwZ.png"
+  },
+  {
+    "id": "9z8a7b6c",
+    "name": "Pothos",
+    "description": "A fast-growing vine with heart-shaped leaves that can trail or climb.",
+    "cost": 220,
+    "rating": 4.2,
+    "steps": [
+      "1. Thrives in low to medium light.",
+      "2. Allow soil to dry out between waterings.",
+      "3. Trim leggy growth to promote bushiness."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/Z5OfXvw.png"
+  },
+  {
+    "id": "5d6e7f8g",
+    "name": "Rubber Plant",
+    "description": "A sturdy plant with glossy, burgundy leaves.",
+    "cost": 380,
+    "rating": 4.4,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Water when soil is dry.",
+      "3. Wipe leaves with a damp cloth to remove dust."
+    ],
+    "waterFrequency": 3,
+    "images": "https://i.imgur.com/9pXM47y.png"
+  },
+  {
+    "id": "9h8g7f6e",
+    "name": "Jade Plant",
+    "description": "A succulent with thick, fleshy leaves that symbolizes prosperity.",
+    "cost": 300,
+    "rating": 4.3,
+    "steps": [
+      "1. Place in bright, indirect light.",
+      "2. Water sparingly, allowing soil to dry out between waterings.",
+      "3. Avoid wetting leaves to prevent rot."
+    ],
+    "waterFrequency": 4,
+    "images": "https://i.imgur.com/3igjzcj.png"
+  },
+  {
+    "id": "5j6k7l8m",
+    "name": "Philodendron",
+    "description": "A versatile plant with heart-shaped leaves that can climb or trail.",
+    "cost": 260,
+    "rating": 4.1,
+    "steps": [
+      "1. Thrives in medium to bright indirect light.",
+      "2. Keep soil evenly moist but not soggy.",
+      "3. Prune to control size and shape."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/GCvKQNd.png"
+  },
+  {
+    "id": "9n8o7p6q",
+    "name": "Parlor Palm",
+    "description": "A small palm with delicate, feathery fronds.",
+    "cost": 290,
+    "rating": 4.0,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Water when top inch of soil is dry.",
+      "3. Mist leaves occasionally to increase humidity."
+    ],
+    "waterFrequency": 3,
+    "images": "https://i.imgur.com/nTR0RYD.png"
+  },
+  {
+    "id": "5r6s7t8u",
+    "name": "Lucky Bamboo",
+    "description": "A symbol of good luck and prosperity in many cultures.",
+    "cost": 230,
+    "rating": 4.2,
+    "steps": [
+      "1. Keep in indirect light.",
+      "2. Change water every 2 weeks.",
+      "3. Trim yellowing leaves."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/MotsrL0.png"
+  },
+  {
+    "id": "9v8w7x6y",
+    "name": "Bird of Paradise",
+    "description": "An exotic plant with large, banana-like leaves and vibrant flowers.",
+    "cost": 480,
+    "rating": 4.6,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Keep soil consistently moist but not waterlogged.",
+      "3. Mist leaves regularly."
+    ],
+    "waterFrequency": 1,
+    "images": "https://i.imgur.com/GZxPzSL.png"
+  },
+  {
+    "id": "5z6a7b8c",
+    "name": "Succulent Mix",
+    "description": "A collection of assorted succulents in various shapes and colors.",
+    "cost": 300,
+    "rating": 4.4,
+    "steps": [
+      "1. Place in bright, indirect light.",
+      "2. Water sparingly, allowing soil to dry out between waterings.",
+      "3. Avoid overwatering."
+    ],
+    "waterFrequency": 4,
+    "images": "https://i.imgur.com/YMU3rzx.png"
+  },
+  {
+    "id": "9d8e7f6g",
+    "name": "English Ivy",
+    "description": "A classic vine with small, lobed leaves that can be trained to climb or cascade.",
+    "cost": 270,
+    "rating": 4.0,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Keep soil consistently moist but not waterlogged.",
+      "3. Mist leaves regularly to prevent spider mites."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/beBD7uA.png"
+  },
+  {
+    "id": "5h6j7k8l",
+    "name": "Boston Fern",
+    "description": "A lush, green fern with arching fronds.",
+    "cost": 320,
+    "rating": 4.3,
+    "steps": [
+      "1. Place in bright, indirect light.",
+      "2. Keep soil consistently moist.",
+      "3. Mist leaves frequently to maintain humidity."
+    ],
+    "waterFrequency": 1,
+    "images": "https://i.imgur.com/d03LJXO.png"
+  },
+  {
+    "id": "9m8n7o6p",
+    "name": "Bamboo Palm",
+    "description": "A tropical palm with feathery fronds that can filter indoor air pollutants.",
+    "cost": 350,
+    "rating": 4.5,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Keep soil consistently moist but not waterlogged.",
+      "3. Fertilize every 2-3 months during growing season."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/neul23o.png"
+  },
+  {
+    "id": "5q6r7s8t",
+    "name": "Chinese Money Plant",
+    "description": "A charming plant with round, coin-like leaves.",
+    "cost": 290,
+    "rating": 4.2,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Water when soil is dry to touch.",
+      "3. Rotate plant regularly to ensure even growth."
+    ],
+    "waterFrequency": 3,
+    "images": "https://i.imgur.com/XpJno8R.png"
+  },
+  {
+    "id": "9u8v7w6x",
+    "name": "String of Pearls",
+    "description": "A unique succulent with trailing stems adorned with bead-like leaves.",
+    "cost": 260,
+    "rating": 4.1,
+    "steps": [
+      "1. Place in bright, indirect light.",
+      "2. Allow soil to dry out between waterings.",
+      "3. Trim leggy stems to encourage new growth."
+    ],
+    "waterFrequency": 4,
+    "images": "https://i.imgur.com/fdkNGWa.png"
+  },
+  {
+    "id": "5y6z7a8b",
+    "name": "Calathea",
+    "description": "A stunning plant with intricately patterned leaves that move throughout the day.",
+    "cost": 380,
+    "rating": 4.4,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Keep soil consistently moist but not waterlogged.",
+      "3. Mist leaves regularly to maintain humidity."
+    ],
+    "waterFrequency": 2,
+    "images": "https://i.imgur.com/JebvKJk.png"
+  },
+  {
+    "id": "9c8d7e6f",
+    "name": "Ficus Elastica",
+    "description": "A robust plant with glossy, burgundy leaves that can grow into a small tree.",
+    "cost": 420,
+    "rating": 4.6,
+    "steps": [
+      "1. Prefers bright, indirect light.",
+      "2. Allow soil to dry out slightly between waterings.",
+      "3. Prune to control size and shape."
+    ],
+    "waterFrequency": 3,
+    "images": "https://i.imgur.com/1u9kPwZ.png"
+  }
+]
