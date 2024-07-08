@@ -14,7 +14,7 @@ Welcome to the Bloom project! This React Native application enhances your indoor
 
 ## Installation
 
-### To get started with the Coffee App:
+### To get started with the Bloom App:
 
 1. **Clone the repository:**
    ```sh
@@ -22,7 +22,7 @@ Welcome to the Bloom project! This React Native application enhances your indoor
    ```
 2. **Go to the Directory:**
    ```sh
-   cd coffee-app:
+   cd Bloom:
    ```
 3. **Install dependencies:**
    ```sh
