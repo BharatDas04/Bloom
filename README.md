@@ -35,9 +35,11 @@ Welcome to the Bloom project! This React Native application enhances your indoor
 
 ## Screenshots
 
-<img src="https://github.com/BharatDas04/Bloom/assets/153592840/b096fdff-4695-45c6-84e9-ebcb7a4eac9b" width="250" >
-<img src="https://github.com/BharatDas04/Bloom/assets/153592840/be3f8938-3130-4df4-8bd6-2cab25df55e2" width="250">
-<img src="https://github.com/BharatDas04/Bloom/assets/153592840/acdfa67d-7e79-4143-87fb-4f2bf08687e0" width="250">
-<img src="https://github.com/BharatDas04/Bloom/assets/153592840/0401e47f-fd62-4ec9-b28f-171224b8b424" width="250">
-<img src="https://github.com/BharatDas04/Bloom/assets/153592840/c644b81d-6401-455c-81c8-2e79ec365cb6" width="250">
-<img src="https://github.com/BharatDas04/Bloom/assets/153592840/5d677fbb-0c5c-46dc-b932-363c35bef681" width="250">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <img src="Screenshot/Screenshot_20240708_165551_Expo Go.jpg" width="250">
+    <img src="Screenshot/Screenshot_20240708_165558_Expo Go.jpg" width="250">
+    <img src="Screenshot/Screenshot_20240708_165626_Expo Go.jpg" width="250">
+    <img src="Screenshot/Screenshot_20240708_165630_Expo Go.jpg" width="250">
+    <img src="Screenshot/Screenshot_20240708_165640_Expo Go.jpg" width="250">
+    <img src="Screenshot/Screenshot_20240708_165957_Expo Go.jpg" width="250">
+</div>
